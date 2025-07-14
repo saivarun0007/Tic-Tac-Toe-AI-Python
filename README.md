@@ -60,7 +60,7 @@ Tic-Tac-Toe-Game/
 
 ## License
 
-This project is developed solely for educational purposes under the Coding Samurai Internship Program.
+This project is developed solely for educational purposes.
 
 
 ## Acknowledgements
